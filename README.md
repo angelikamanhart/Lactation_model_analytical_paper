@@ -2,7 +2,7 @@
 
 This repository contains the code accompanying the paper:
 
-**Milk-removal feedback shapes lactation sustainability and milk output in a model of human lactation**
+**Milk-removal feedback shapes lactation sustainability and daily output in a model of human lactation**
 
 Angelika Manhart and Tobias Müller, University of Vienna.
 
@@ -22,7 +22,7 @@ Jupyter Notebook file *simulate_lactation_model.ipynb*
 
 If you use this code, please cite:
 
-Manhart, A. and Müller, T. _Milk-removal feedback shapes lactation sustainability and milk output in a model of human lactation_.
+Manhart, A. and Müller, T. Milk-removal feedback shapes lactation sustainability and daily output in a model of human lactation.
 
 ## License
 
